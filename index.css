@@ -1,0 +1,12 @@
+*{
+    background-color: aquamarine;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color:rgb(102, 50, 2);
+}
+hr{
+    height: 10px;
+    background-color: white;
+}
