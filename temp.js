@@ -15,7 +15,7 @@ else
  y = parseFloat(y);
 window.alert("The sum of x and y is : " + (x + y))*/
 
-alert("Welcome to RTO");
+/* alert("Welcome to RTO");
 
 let input = parseInt(prompt("Type 1. for light Licence \n        2. for heavy Licence : "));
 
@@ -40,4 +40,13 @@ else if (input == 2){
 else{
     alert("Enter a valid input")
 }
-console.log("Hello world")
+console.log("Hello world")  */
+
+// let fullname = prompt("Enter your full name without space : ")
+// document.write("@"+ fullname + fullname.length)
+
+function areaofrect(x,y){
+    let z =  x**x * y;
+    console.log(z + 2);
+}
+areaofrect(2,3);
